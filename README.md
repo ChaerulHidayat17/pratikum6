@@ -1,4 +1,4 @@
-# Pratikum 6
+# Pratikum 7
 
 Nama  : Chaerul Hidayat <br>
 Nim   : 312210300 <br>
